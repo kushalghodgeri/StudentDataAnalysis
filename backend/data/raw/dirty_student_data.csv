@@ -1,0 +1,217 @@
+student_id,first_name,last_name,email,gender,dob,department,admission_year,course_code,course_name,credits,semester,marks,attendance_pct
+1.0,Danielle,Johnson,danielle.johnson1@example.com,O,2003-03-14,Computer Science,2021,EE201,Sample Course,3,4,56.16,90.62
+2.0,John,Taylor,john.taylor2@example.com,O,2001-09-24,Biotechnology,2021,BT101,Sample Course,3,7,46.59,72.62
+3.0,Erica,Mcclain,erica.mcclain3@example.com,M,2001-08-07,Information Technology,2021,IT301,Sample Course,3,4,80.8,89.64
+4.0,Brittany,Johnson,brittany.johnson4@example.com,F,2001-08-28,Electrical Engineering,2024,BT101,Sample Course,3,5,85.47,70.18
+5.0,Jeffery,Wagner,jeffery.wagner5@example.com,M,2001-01-31,Biotechnology,2024,ME101,Sample Course,3,5,52.77,96.8
+6.0,Anna,Baldwin,anna.baldwin6@example.com,F,2006-10-28,Computer Science,2021,ME301,Sample Course,3,2,62.95,79.63
+7.0,Amy,Robinson,amy.robinson7@example.com,F,2005-11-14,Computer Science,2024,IT301,Sample Course,3,2,93.66,80.6
+8.0,Joshua,Booth,joshua.booth8@example.com,O,2007-04-25,Mechanical Engineering,2023,BT101,Sample Course,3,4,80.23,71.28
+9.0,Linda,Wolfe,linda.wolfe9@example.com,M,2003-10-03,Mechanical Engineering,2021,EE101,Sample Course,3,2,64.01,82.7
+10.0,Joshua,Lewis,joshua.lewis10@example.com,F,2007-05-10,Electrical Engineering,2023,ME201,Sample Course,3,4,78.51,89.65
+11.0,Matthew,Davis,matthew.davis11@example.com,O,2001-09-06,Biotechnology,2021,BT201,Sample Course,3,3,71.71,76.85
+12.0,Michael,Cooper,michael.cooper12@example.com,F,2003-02-09,Civil Engineering,2023,IT301,Sample Course,3,4,79.23,93.6
+13.0,Lindsay,Blair,lindsay.blair13@example.com,M,2005-06-03,Electrical Engineering,2021,ME101,Sample Course,3,7,58.39,75.91
+14.0,David,Nielsen,david.nielsen14@example.com,O,2001-07-12,Biotechnology,2023,CS401,Sample Course,3,8,64.78,95.61
+15.0,Andrea,Calderon,andrea.calderon15@example.com,F,2006-02-13,Electrical Engineering,2023,CS301,Sample Course,3,4,82.25,85.09
+16.0,Nicole,Ward,nicole.ward16@example.com,O,2002-06-30,Information Technology,2024,BT101,Sample Course,3,7,63.1,97.93
+17.0,Janet,Williams,janet.williams17@example.com,M,2002-10-19,Information Technology,2024,CS201,Sample Course,3,1,88.06,74.28
+18.0,Kendra,Galloway,kendra.galloway18@example.com,M,2008-02-19,Biotechnology,2024,BT201,Sample Course,3,2,64.24,86.68
+19.0,Jesse,Garcia,jesse.garcia19@example.com,F,2003-03-23,Information Technology,2023,IT301,Sample Course,3,1,79.01,73.21
+20.0,Shawn,Flowers,shawn.flowers20@example.com,O,2002-03-30,Mechanical Engineering,2023,CS202,Sample Course,3,5,66.74,82.7
+21.0,Mitchell,Clark,mitchell.clark21@example.com,O,2003-02-17,Biotechnology,2023,IT201,Sample Course,3,3,70.38,72.98
+22.0,Jacqueline,Sutton,jacqueline.sutton22@example.com,O,2001-06-19,Mechanical Engineering,2022,CS301,Sample Course,3,6,83.13,85.1
+23.0,Chelsea,Jackson,chelsea.jackson23@example.com,O,2007-01-23,Computer Science,2023,IT101,Sample Course,3,1,50.59,80.16
+24.0,John,Ford,john.ford24@example.com,F,2003-02-26,Electrical Engineering,2021,EE101,Sample Course,3,2,49.28,83.61
+25.0,Veronica,Bowman,veronica.bowman25@example.com,M,2005-08-06,Information Technology,2022,CS301,Sample Course,3,8,92.34,74.62
+26.0,Jeffrey,Nguyen,jeffrey.nguyen26@example.com,O,2007-05-25,Information Technology,2024,CS401,Sample Course,3,4,80.65,81.17
+27.0,Kimberly,Perez,kimberly.perez27@example.com,O,2001-02-17,Biotechnology,2023,CE201,Sample Course,3,8,51.05,76.29
+28.0,Linda,Morales,linda.morales28@example.com,F,2001-06-03,Computer Science,2022,BT101,Sample Course,3,4,45.36,89.82
+29.0,Jason,Hahn,jason.hahn29@example.com,M,2008-04-24,Electrical Engineering,2021,CS102,Sample Course,3,6,48.54,76.66
+30.0,Jennifer,Lewis,jennifer.lewis30@example.com,O,2005-02-08,Civil Engineering,2022,IT301,Sample Course,3,3,81.17,94.71
+31.0,Randall,Rocha,randall.rocha31@example.com,O,2004-10-05,Civil Engineering,2022,IT101,Sample Course,3,7,54.52,72.71
+32.0,Douglas,Taylor,douglas.taylor32@example.com,F,2007-03-13,Mechanical Engineering,2024,CE101,Sample Course,3,8,88.19,71.52
+33.0,Anna,Baker,anna.baker33@example.com,O,2005-10-31,Biotechnology,2021,CS102,Sample Course,3,7,81.41,92.42
+34.0,Ross,Silva,ross.silva34@example.com,M,2003-12-09,Electrical Engineering,2022,CS401,Sample Course,3,8,52.01,75.14
+35.0,Jeffrey,Bright,jeffrey.bright35@example.com,F,2005-03-12,Electrical Engineering,2021,CE201,Sample Course,3,2,47.53,97.98
+36.0,Trevor,Campos,trevor.campos36@example.com,M,2008-03-08,Computer Science,2022,CS302,Sample Course,3,7,69.28,75.98
+37.0,Daniel,Burton,daniel.burton37@example.com,F,2007-08-06,Computer Science,2022,ME301,Sample Course,3,1,94.27,77.43
+38.0,Erin,Carlson,erin.carlson38@example.com,F,2004-02-18,Mechanical Engineering,2024,IT301,Sample Course,3,8,52.74,78.31
+39.0,Patrick,Ferrell,patrick.ferrell39@example.com,M,2005-05-11,Information Technology,2021,ME101,Sample Course,3,1,47.51,83.35
+40.0,John,Tran,john.tran40@example.com,O,2000-12-15,Electrical Engineering,2021,IT201,Sample Course,3,2,87.57,71.92
+41.0,Erin,Wilson,erin.wilson41@example.com,M,2008-05-20,Biotechnology,2022,ME301,Sample Course,3,2,92.08,85.95
+42.0,Amanda,Adams,amanda.adams42@example.com,O,2006-04-24,Information Technology,2021,BT201,Sample Course,3,2,65.96,86.34
+43.0,Matthew,Carter,matthew.carter43@example.com,O,2002-03-16,Mechanical Engineering,2023,CS401,Sample Course,3,6,56.93,81.08
+44.0,Shawn,Mckay,shawn.mckay44@example.com,O,2008-04-23,Biotechnology,2023,CE201,Sample Course,3,6,91.45,96.2
+45.0,Jennifer,Stanton,jennifer.stanton45@example.com,M,2007-05-05,Civil Engineering,2021,CS201,Sample Course,3,4,70.29,73.71
+46.0,Guy,Gaines,guy.gaines46@example.com,F,2008-04-06,Computer Science,2022,ME201,Sample Course,3,5,52.89,93.34
+47.0,Colleen,Skinner,colleen.skinner47@example.com,O,2005-03-06,Mechanical Engineering,2021,IT301,Sample Course,3,5,91.59,72.9
+48.0,Chelsea,Hernandez,chelsea.hernandez48@example.com,M,2007-05-07,Mechanical Engineering,2021,CS202,Sample Course,3,3,58.62,86.94
+49.0,Evan,Ashley,evan.ashley49@example.com,O,2008-09-14,Mechanical Engineering,2022,EE201,Sample Course,3,8,57.56,95.43
+50.0,Alyssa,Smith,alyssa.smith50@example.com,M,2003-08-14,Computer Science,2024,EE201,Sample Course,3,1,45.18,91.59
+51.0,Tracy,Rodriguez,tracy.rodriguez51@example.com,O,2003-12-12,Mechanical Engineering,2022,CE201,Sample Course,3,7,73.05,73.13
+52.0,Natasha,Decker,natasha.decker52@example.com,O,2003-06-23,Electrical Engineering,2021,ME201,Sample Course,3,3,66.49,71.17
+53.0,John,Allen,john.allen53@example.com,F,2005-09-07,Computer Science,2023,CS401,Sample Course,3,4,78.35,79.9
+54.0,Stacey,Miller,stacey.miller54@example.com,O,2004-12-28,Civil Engineering,2022,EE101,Sample Course,3,3,93.81,92.7
+55.0,Lisa,Spence,lisa.spence55@example.com,F,2005-05-23,Computer Science,2022,ME101,Sample Course,3,7,85.11,94.19
+56.0,Katie,Anderson,katie.anderson56@example.com,M,2004-11-25,Mechanical Engineering,2022,CS202,Sample Course,3,7,88.61,94.04
+57.0,Stacey,Martin,stacey.martin57@example.com,M,2005-05-07,Electrical Engineering,2024,ME201,Sample Course,3,5,86.03,94.4
+58.0,Monique,Henderson,monique.henderson58@example.com,M,2002-08-30,Computer Science,2022,ME301,Sample Course,3,6,58.93,71.94
+59.0,Sarah,Campos,sarah.campos59@example.com,F,2006-09-23,Mechanical Engineering,2024,IT301,Sample Course,3,6,91.96,73.23
+60.0,James,Collins,james.collins60@example.com,F,2006-07-28,Electrical Engineering,2023,CS102,Sample Course,3,2,74.83,79.68
+61.0,Debra,Kim,debra.kim61@example.com,F,2005-04-06,Civil Engineering,2021,ME301,Sample Course,3,4,57.74,89.85
+62.0,Shannon,Wright,shannon.wright62@example.com,M,2001-05-27,Information Technology,2022,ME201,Sample Course,3,7,48.5,88.6
+63.0,Matthew,Chapman,matthew.chapman63@example.com,F,2002-10-25,Information Technology,2023,CS202,Sample Course,3,5,70.36,88.67
+64.0,Brianna,Smith,brianna.smith64@example.com,F,2006-11-18,Civil Engineering,2023,IT301,Sample Course,3,3,54.59,88.62
+65.0,Crystal,Perez,crystal.perez65@example.com,F,2008-07-24,Biotechnology,2022,BT201,Sample Course,3,5,65.3,93.34
+66.0,Anthony,Rivera,anthony.rivera66@example.com,F,2005-03-26,Mechanical Engineering,2022,CE101,Sample Course,3,6,68.25,82.38
+67.0,John,Caldwell,john.caldwell67@example.com,M,2002-09-06,Information Technology,2024,CS302,Sample Course,3,2,59.19,88.59
+68.0,Amber,Cummings,amber.cummings68@example.com,O,2008-05-13,Mechanical Engineering,2021,EE101,Sample Course,3,5,56.23,75.58
+69.0,Ashley,Kennedy,ashley.kennedy69@example.com,M,2007-07-14,Computer Science,2022,IT101,Sample Course,3,2,67.77,94.81
+70.0,Thomas,Russell,thomas.russell70@example.com,O,2001-08-30,Electrical Engineering,2024,IT101,Sample Course,3,7,57.2,88.37
+71.0,Collin,Jordan,collin.jordan71@example.com,M,2004-06-18,Computer Science,2024,EE101,Sample Course,3,3,85.21,89.49
+72.0,Robert,Shields,robert.shields72@example.com,F,2001-04-27,Computer Science,2022,CS202,Sample Course,3,8,51.67,83.01
+73.0,Emily,Joyce,emily.joyce73@example.com,O,2001-09-11,Information Technology,2023,CE201,Sample Course,3,7,86.53,85.34
+74.0,Bruce,Chandler,bruce.chandler74@example.com,M,2007-09-02,Biotechnology,2024,CE201,Sample Course,3,5,82.59,93.52
+75.0,Michelle,Wright,michelle.wright75@example.com,F,2002-06-23,Information Technology,2024,EE101,Sample Course,3,5,66.99,89.98
+76.0,Amanda,Taylor,amanda.taylor76@example.com,M,2002-06-03,Mechanical Engineering,2023,ME101,Sample Course,3,2,51.92,76.48
+77.0,Joshua,Wright,joshua.wright77@example.com,O,2008-09-17,Electrical Engineering,2022,CS201,Sample Course,3,7,65.38,85.19
+78.0,Charles,Morton,charles.morton78@example.com,F,2008-02-21,Computer Science,2022,CE101,Sample Course,3,7,90.24,86.35
+79.0,Andrea,Williams,andrea.williams79@example.com,O,2005-06-16,Computer Science,2024,IT101,Sample Course,3,1,92.14,78.36
+80.0,Mary,Novak,mary.novak80@example.com,F,2008-09-27,Civil Engineering,2022,IT101,Sample Course,3,4,58.65,83.6
+81.0,Karen,Young,karen.young81@example.com,F,2004-04-25,Mechanical Engineering,2024,CS302,Sample Course,3,8,90.98,97.46
+82.0,Todd,Lewis,todd.lewis82@example.com,O,2004-04-08,Computer Science,2024,BT101,Sample Course,3,1,49.2,82.0
+83.0,Rachel,Martin,rachel.martin83@example.com,F,2000-11-16,Electrical Engineering,2021,EE201,Sample Course,3,7,61.37,82.73
+84.0,Tricia,Baker,tricia.baker84@example.com,F,2007-07-13,Civil Engineering,2023,CE101,Sample Course,3,5,86.75,83.17
+85.0,Kristen,Mitchell,kristen.mitchell85@example.com,O,2006-10-14,Information Technology,2021,ME201,Sample Course,3,4,77.51,91.87
+86.0,Susan,Cowan,susan.cowan86@example.com,O,2005-08-02,Computer Science,2021,EE101,Sample Course,3,4,86.96,87.4
+87.0,Dorothy,Tucker,dorothy.tucker87@example.com,M,2002-06-22,Electrical Engineering,2024,CS202,Sample Course,3,4,68.25,77.17
+88.0,Kenneth,Novak,kenneth.novak88@example.com,F,2005-10-14,Electrical Engineering,2021,CS302,Sample Course,3,5,50.4,70.72
+89.0,Jill,Brown,jill.brown89@example.com,F,2003-07-12,Information Technology,2024,ME301,Sample Course,3,4,48.8,89.34
+90.0,Brian,Silva,brian.silva90@example.com,O,2005-02-19,Electrical Engineering,2021,EE301,Sample Course,3,2,84.81,85.85
+91.0,Samantha,Schmidt,samantha.schmidt91@example.com,M,2001-05-05,Mechanical Engineering,2024,ME201,Sample Course,3,2,70.3,79.55
+92.0,Susan,Miller,susan.miller92@example.com,F,2002-06-10,Civil Engineering,2021,CE101,Sample Course,3,6,76.78,93.2
+93.0,Casey,Jones,casey.jones93@example.com,O,2008-03-10,Electrical Engineering,2024,CS302,Sample Course,3,5,75.8,95.75
+94.0,Joe,Wilson,joe.wilson94@example.com,F,2008-06-07,Civil Engineering,2024,BT101,Sample Course,3,5,61.12,76.87
+95.0,Ashley,Riley,ashley.riley95@example.com,M,2001-03-13,Mechanical Engineering,2024,EE101,Sample Course,3,8,73.49,88.71
+96.0,Christine,Barnes,christine.barnes96@example.com,F,2005-10-28,Computer Science,2024,ME101,Sample Course,3,3,69.38,79.94
+97.0,Annette,Stewart,annette.stewart97@example.com,F,2003-01-29,Mechanical Engineering,2023,BT201,Sample Course,3,5,72.79,84.47
+98.0,James,Moran,james.moran98@example.com,M,2002-11-21,Computer Science,2022,CE101,Sample Course,3,8,72.76,76.73
+99.0,Joseph,Anderson,joseph.anderson99@example.com,F,2006-05-08,Biotechnology,2024,CE201,Sample Course,3,1,49.65,76.2
+100.0,Kevin,Stewart,kevin.stewart100@example.com,O,2007-04-03,Electrical Engineering,2023,BT101,Sample Course,3,6,68.66,84.87
+101.0,Shari,Smith,shari.smith101@example.com,F,2006-02-21,Biotechnology,2023,ME201,Sample Course,3,8,58.55,77.04
+102.0,Yolanda,Ferrell,yolanda.ferrell102@example.com,M,2001-06-25,Biotechnology,2022,ME101,Sample Course,3,2,82.14,96.62
+103.0,Amanda,Wagner,amanda.wagner103@example.com,O,2001-12-26,Electrical Engineering,2022,CS401,Sample Course,3,8,58.82,86.51
+104.0,Sarah,Ibarra,sarah.ibarra104@example.com,O,2008-05-03,Information Technology,2023,CS202,Sample Course,3,4,59.81,80.1
+105.0,John,Mitchell,john.mitchell105@example.com,F,2004-08-02,Computer Science,2022,EE201,Sample Course,3,1,93.71,85.49
+106.0,Martha,Warner,martha.warner106@example.com,O,2006-01-23,Electrical Engineering,2024,CS202,Sample Course,3,1,73.7,83.14
+107.0,Tonya,Roman,tonya.roman107@example.com,F,2005-05-11,Mechanical Engineering,2022,CS102,Sample Course,3,5,92.05,83.38
+108.0,Alan,Montoya,alan.montoya108@example.com,M,2003-05-29,Civil Engineering,2024,CS201,Sample Course,3,1,52.59,92.71
+109.0,Sarah,Garcia,sarah.garcia109@example.com,F,2008-04-30,Computer Science,2022,CS202,Sample Course,3,7,75.32,92.14
+110.0,Dennis,Wilson,dennis.wilson110@example.com,M,2001-10-08,Information Technology,2024,CE201,Sample Course,3,8,59.87,86.48
+111.0,Julia,Moore,julia.moore111@example.com,F,2003-04-04,Mechanical Engineering,2021,BT201,Sample Course,3,2,92.38,75.82
+112.0,Cassandra,Robbins,cassandra.robbins112@example.com,M,2002-08-04,Mechanical Engineering,2021,CS302,Sample Course,3,4,53.69,72.1
+113.0,Grace,Farrell,grace.farrell113@example.com,M,2005-02-27,Civil Engineering,2024,BT201,Sample Course,3,8,59.56,76.48
+114.0,Tracy,Whitehead,tracy.whitehead114@example.com,O,2008-01-21,Mechanical Engineering,2024,CS201,Sample Course,3,4,91.2,92.06
+115.0,Brent,Walters,brent.walters115@example.com,O,2007-11-30,Information Technology,2022,CE101,Sample Course,3,2,72.23,88.13
+116.0,Joshua,Smith,joshua.smith116@example.com,F,2007-06-02,Electrical Engineering,2021,CS102,Sample Course,3,3,84.63,86.66
+117.0,David,Whitney,david.whitney117@example.com,O,2002-03-27,Mechanical Engineering,2024,CS202,Sample Course,3,8,79.43,89.59
+118.0,Joyce,Arnold,joyce.arnold118@example.com,F,2004-06-30,Information Technology,2024,CE201,Sample Course,3,2,74.9,94.9
+119.0,Ann,Rodriguez,ann.rodriguez119@example.com,O,2008-05-15,Mechanical Engineering,2023,CS101,Sample Course,3,2,56.45,88.88
+120.0,Hannah,Hernandez,hannah.hernandez120@example.com,O,2001-03-01,Information Technology,2021,EE201,Sample Course,3,1,83.16,74.91
+121.0,Mary,Aguilar,mary.aguilar121@example.com,O,2002-02-13,Biotechnology,2024,EE201,Sample Course,3,3,94.85,82.2
+122.0,Russell,Williams,russell.williams122@example.com,F,2003-12-17,Computer Science,2024,ME201,Sample Course,3,7,61.67,88.76
+123.0,Rachel,Flynn,rachel.flynn123@example.com,M,2008-03-07,Mechanical Engineering,2024,IT101,Sample Course,3,5,78.13,81.21
+124.0,Bill,Howard,bill.howard124@example.com,O,2006-08-30,Computer Science,2024,CS201,Sample Course,3,6,57.62,73.25
+125.0,John,Garcia,john.garcia125@example.com,F,2007-06-30,Information Technology,2021,IT301,Sample Course,3,8,65.66,75.25
+126.0,Anita,Baxter,anita.baxter126@example.com,F,2006-02-20,Information Technology,2024,CE201,Sample Course,3,1,55.18,85.38
+127.0,Kara,Frost,kara.frost127@example.com,F,2002-11-15,Civil Engineering,2024,CS202,Sample Course,3,1,93.66,87.05
+128.0,Michelle,Cherry,michelle.cherry128@example.com,M,2007-10-03,Biotechnology,2022,EE301,Sample Course,3,1,72.61,72.61
+129.0,Gregory,Gutierrez,gregory.gutierrez129@example.com,M,2002-05-21,Civil Engineering,2021,CS301,Sample Course,3,8,91.63,78.17
+130.0,Jill,Cook,jill.cook130@example.com,O,2008-10-10,Mechanical Engineering,2024,IT101,Sample Course,3,8,57.19,85.44
+131.0,Robert,Santiago,robert.santiago131@example.com,F,2007-02-10,Electrical Engineering,2022,CS201,Sample Course,3,5,83.63,93.92
+132.0,Lisa,Adams,lisa.adams132@example.com,F,2007-07-23,Information Technology,2023,CS101,Sample Course,3,5,81.3,93.45
+133.0,Jacqueline,Reyes,jacqueline.reyes133@example.com,O,2001-03-10,Biotechnology,2024,CS301,Sample Course,3,8,71.93,79.66
+134.0,Michele,Walker,michele.walker134@example.com,O,2007-10-22,Information Technology,2024,CE201,Sample Course,3,6,88.48,97.46
+135.0,Samantha,Bailey,samantha.bailey135@example.com,M,2007-11-03,Information Technology,2024,EE101,Sample Course,3,7,47.18,90.85
+136.0,Laura,Perez,laura.perez136@example.com,O,2001-01-22,Civil Engineering,2024,CS301,Sample Course,3,8,93.24,73.53
+137.0,Donna,Ross,donna.ross137@example.com,O,2003-03-25,Mechanical Engineering,2021,CE201,Sample Course,3,2,71.3,82.79
+138.0,Michelle,Rasmussen,michelle.rasmussen138@example.com,O,2003-03-27,Electrical Engineering,2024,CS301,Sample Course,3,2,68.47,97.14
+139.0,Michael,Hicks,michael.hicks139@example.com,F,2006-08-22,Information Technology,2024,CS201,Sample Course,3,6,87.62,94.06
+140.0,Tina,Herrera,tina.herrera140@example.com,F,2008-11-06,Mechanical Engineering,2024,IT301,Sample Course,3,1,75.87,76.57
+141.0,Anthony,Wiley,anthony.wiley141@example.com,O,2003-01-30,Mechanical Engineering,2022,CS201,Sample Course,3,7,93.92,91.29
+142.0,Gregory,Estes,gregory.estes142@example.com,O,2003-02-12,Computer Science,2024,CS302,Sample Course,3,5,90.17,71.29
+143.0,Benjamin,Carlson,benjamin.carlson143@example.com,M,2003-10-20,Mechanical Engineering,2023,ME201,Sample Course,3,7,52.28,84.87
+144.0,Jessica,Edwards,jessica.edwards144@example.com,O,2006-01-06,Biotechnology,2022,CS302,Sample Course,3,3,48.95,94.38
+145.0,Tracey,Wilson,tracey.wilson145@example.com,O,2008-07-05,Biotechnology,2022,IT101,Sample Course,3,3,56.61,87.86
+146.0,Barbara,Scott,barbara.scott146@example.com,F,2006-11-21,Mechanical Engineering,2021,CE201,Sample Course,3,5,78.88,74.42
+147.0,Ryan,Meyer,ryan.meyer147@example.com,F,2007-09-20,Mechanical Engineering,2023,CE101,Sample Course,3,5,67.84,78.46
+148.0,Amanda,Ball,amanda.ball148@example.com,F,2007-03-04,Civil Engineering,2021,EE101,Sample Course,3,7,73.6,86.09
+149.0,Jillian,Gonzalez,jillian.gonzalez149@example.com,O,2004-07-11,Mechanical Engineering,2021,ME301,Sample Course,3,5,45.4,94.22
+150.0,Chad,Beck,chad.beck150@example.com,O,2003-09-01,Computer Science,2024,EE301,Sample Course,3,4,75.35,79.86
+151.0,Cindy,Alvarado,cindy.alvarado151@example.com,O,2001-12-02,Electrical Engineering,2023,CS301,Sample Course,3,2,90.17,88.1
+152.0,Jennifer,Evans,jennifer.evans152@example.com,F,2003-06-28,Civil Engineering,2021,BT101,Sample Course,3,6,81.62,72.52
+153.0,Elizabeth,Nguyen,elizabeth.nguyen153@example.com,F,2006-10-16,Mechanical Engineering,2024,CS302,Sample Course,3,4,51.61,85.1
+154.0,Kenneth,Martinez,kenneth.martinez154@example.com,F,2004-06-08,Information Technology,2023,CS302,Sample Course,3,5,90.7,96.44
+155.0,Elizabeth,Gray,elizabeth.gray155@example.com,F,2007-03-23,Biotechnology,2023,CS202,Sample Course,3,8,93.14,73.94
+156.0,Raven,Gilbert,raven.gilbert156@example.com,M,2003-06-03,Biotechnology,2024,IT301,Sample Course,3,6,49.52,81.05
+157.0,Richard,Bass,richard.bass157@example.com,F,2003-06-12,Information Technology,2021,CE201,Sample Course,3,6,78.64,88.83
+158.0,Justin,Jordan,justin.jordan158@example.com,O,2005-10-16,Civil Engineering,2023,CS202,Sample Course,3,4,68.57,87.35
+159.0,Catherine,Morris,catherine.morris159@example.com,O,2004-08-13,Mechanical Engineering,2022,CS201,Sample Course,3,8,90.47,78.46
+160.0,Scott,Lewis,scott.lewis160@example.com,F,2004-11-19,Computer Science,2022,CS102,Sample Course,3,1,60.22,83.79
+161.0,Laura,Moyer,laura.moyer161@example.com,M,2007-02-13,Electrical Engineering,2022,ME301,Sample Course,3,8,63.55,96.58
+162.0,Gene,Miller,gene.miller162@example.com,O,2005-03-30,Information Technology,2024,BT101,Sample Course,3,3,89.27,88.34
+163.0,Elizabeth,Harvey,elizabeth.harvey163@example.com,F,2001-08-27,Information Technology,2024,EE201,Sample Course,3,1,79.51,76.08
+164.0,Loretta,Potter,loretta.potter164@example.com,F,2006-08-01,Electrical Engineering,2023,CS202,Sample Course,3,6,72.22,97.38
+165.0,Lance,Drake,lance.drake165@example.com,F,2002-02-10,Computer Science,2024,EE201,Sample Course,3,4,93.41,96.57
+166.0,Andrew,Sanchez,andrew.sanchez166@example.com,F,2004-11-25,Computer Science,2022,BT201,Sample Course,3,1,47.53,79.34
+167.0,Cheryl,Mack,cheryl.mack167@example.com,M,2004-09-24,Information Technology,2022,CS201,Sample Course,3,4,74.32,92.77
+168.0,Robert,Soto,robert.soto168@example.com,M,2002-07-07,Mechanical Engineering,2022,BT201,Sample Course,3,1,58.86,97.55
+169.0,Jennifer,Cruz,jennifer.cruz169@example.com,M,2004-04-04,Information Technology,2023,CS302,Sample Course,3,2,78.05,70.72
+170.0,John,Douglas,john.douglas170@example.com,M,2000-11-27,Mechanical Engineering,2022,BT101,Sample Course,3,6,45.79,77.43
+171.0,Patricia,Dalton,patricia.dalton171@example.com,M,2008-05-23,Biotechnology,2024,IT201,Sample Course,3,2,82.28,83.33
+172.0,Daniel,Coleman,daniel.coleman172@example.com,F,2002-05-10,Information Technology,2021,CE201,Sample Course,3,4,92.27,71.21
+173.0,Linda,Dominguez,linda.dominguez173@example.com,O,2004-10-23,Information Technology,2023,CE201,Sample Course,3,1,48.04,83.41
+174.0,Brent,Wright,brent.wright174@example.com,F,2008-01-28,Civil Engineering,2021,IT101,Sample Course,3,8,48.67,72.26
+175.0,David,Anderson,david.anderson175@example.com,O,2004-10-23,Electrical Engineering,2021,CS301,Sample Course,3,5,76.22,86.39
+176.0,Elizabeth,Travis,elizabeth.travis176@example.com,O,2005-12-04,Mechanical Engineering,2024,BT201,Sample Course,3,5,67.69,86.95
+177.0,Logan,Fischer,logan.fischer177@example.com,M,2004-08-16,Biotechnology,2021,IT301,Sample Course,3,4,66.5,94.87
+178.0,Cheyenne,Ball,cheyenne.ball178@example.com,F,2005-02-25,Mechanical Engineering,2024,ME301,Sample Course,3,7,81.48,78.75
+179.0,Ronald,Meadows,ronald.meadows179@example.com,F,2004-08-26,Biotechnology,2023,ME201,Sample Course,3,3,79.34,83.28
+180.0,Phyllis,Manning,phyllis.manning180@example.com,M,2004-11-23,Computer Science,2021,CE101,Sample Course,3,2,82.23,80.43
+181.0,Shannon,Walton,shannon.walton181@example.com,M,2008-01-02,Information Technology,2021,BT101,Sample Course,3,6,78.5,81.5
+182.0,Dana,Cannon,dana.cannon182@example.com,O,2005-04-17,Civil Engineering,2021,EE301,Sample Course,3,5,62.58,86.18
+183.0,Todd,Allen,todd.allen183@example.com,M,2004-08-07,Electrical Engineering,2024,EE101,Sample Course,3,2,62.51,85.58
+184.0,Chris,Mitchell,chris.mitchell184@example.com,M,2003-03-04,Mechanical Engineering,2022,CE101,Sample Course,3,1,75.45,88.42
+185.0,Matthew,Orozco,matthew.orozco185@example.com,O,2001-07-18,Mechanical Engineering,2021,CS302,Sample Course,3,5,80.13,78.65
+186.0,Devon,Hall,devon.hall186@example.com,F,2006-10-06,Mechanical Engineering,2021,CS302,Sample Course,3,3,73.32,81.22
+187.0,Eric,Lewis,eric.lewis187@example.com,M,2004-05-21,Biotechnology,2021,CS201,Sample Course,3,4,63.81,82.7
+188.0,Rick,Daniels,rick.daniels188@example.com,M,2004-05-24,Mechanical Engineering,2023,ME101,Sample Course,3,2,89.17,74.36
+189.0,Bryan,Wall,bryan.wall189@example.com,O,2004-03-04,Computer Science,2021,EE201,Sample Course,3,8,78.1,83.6
+190.0,Rebecca,Silva,rebecca.silva190@example.com,F,2006-10-10,Civil Engineering,2023,CS401,Sample Course,3,2,62.26,73.1
+191.0,Andrew,Gilmore,andrew.gilmore191@example.com,O,2005-10-03,Biotechnology,2024,IT201,Sample Course,3,5,47.27,81.07
+192.0,Omar,Smith,omar.smith192@example.com,O,2003-11-07,Computer Science,2021,CS401,Sample Course,3,5,92.27,91.49
+193.0,Kenneth,Price,kenneth.price193@example.com,F,2008-06-11,Mechanical Engineering,2023,CS202,Sample Course,3,1,69.87,82.06
+194.0,Stephanie,Barnes,stephanie.barnes194@example.com,M,2007-03-21,Civil Engineering,2022,IT201,Sample Course,3,6,48.6,94.13
+195.0,Jessica,Marsh,jessica.marsh195@example.com,M,2008-06-30,Civil Engineering,2021,CE201,Sample Course,3,2,88.11,86.12
+196.0,Jeffrey,Robinson,jeffrey.robinson196@example.com,O,2004-07-26,Civil Engineering,2024,EE301,Sample Course,3,2,65.25,97.05
+197.0,Todd,Price,todd.price197@example.com,M,2006-07-20,Information Technology,2024,ME201,Sample Course,3,2,66.84,72.96
+198.0,Erin,Powell,erin.powell198@example.com,F,2002-04-06,Information Technology,2024,IT201,Sample Course,3,2,64.79,78.69
+199.0,Mary,Calhoun,mary.calhoun199@example.com,F,2006-02-25,Electrical Engineering,2023,CS302,Sample Course,3,2,70.52,73.19
+200.0,Amanda,Meadows,amanda.meadows200@example.com,O,2005-11-22,Electrical Engineering,2023,ME201,Sample Course,3,3,56.81,74.1
+13.0,Lindsay,Blair,lindsay.blair13@example.com,M,2005-06-03,Electrical Engineering,2021,ME101,Sample Course,3,7,58.39,75.91
+12.0,Michael,Cooper,michael.cooper12@example.com,F,2003-02-09,Civil Engineering,2023,IT301,Sample Course,3,4,79.23,93.6
+39.0,Patrick,Ferrell,patrick.ferrell39@example.com,M,2005-05-11,Information Technology,2021,ME101,Sample Course,3,1,47.51,83.35
+10.0,Joshua,Lewis,joshua.lewis10@example.com,F,2007-05-10,Electrical Engineering,2023,ME201,Sample Course,3,4,78.51,89.65
+49.0,Evan,Ashley,evan.ashley49@example.com,O,2008-09-14,Mechanical Engineering,2022,EE201,Sample Course,3,8,57.56,95.43
+49.0,Evan,Ashley,evan.ashley49@example.com,O,2008-09-14,Mechanical Engineering,2022,EE201,Sample Course,3,8,57.56,95.43
+42.0,Amanda,Adams,amanda.adams42@example.com,O,2006-04-24,Information Technology,2021,BT201,Sample Course,3,2,65.96,86.34
+5.0,Jeffery,Wagner,jeffery.wagner5@example.com,M,2001-01-31,Biotechnology,2024,ME101,Sample Course,3,5,52.77,96.8
+12.0,Michael,Cooper,michael.cooper12@example.com,F,2003-02-09,Civil Engineering,2023,IT301,Sample Course,3,4,79.23,93.6
+50.0,Alyssa,Smith,alyssa.smith50@example.com,M,2003-08-14,Computer Science,2024,EE201,Sample Course,3,1,45.18,91.59
+901.0,   jOHn  ,  dOE   ,  JOHNDOE901@EXAMPLE.COM   ,m,2002-05-14,Computer Science,2022,CS101,Intro CS,4,1,78.5,88.0
+902.0,Broken,Email,invalid-email-format-without-at,F,2001-08-20,Electrical Engineering,2022,EE101,,3,1,65.0,80.0
+903.0,Extreme,Scores,extreme.scores903@example.com,M,2003-01-10,Civil Engineering,2023,CE101,,3,2,105.0,-5.0
+,No,StudentId,no.id@example.com,O,2002-11-11,Biotechnology,2022,BT101,,3,1,55.0,75.0
+904.0,Missing,Marks,missing.marks904@example.com,F,2002-09-15,Computer Science,2022,CS101,,4,1,,85.0
+905.0,Outlier,Student,outlier905@example.com,M,2001-04-12,Mechanical Engineering,2021,ME101,,3,3,5.0,40.0

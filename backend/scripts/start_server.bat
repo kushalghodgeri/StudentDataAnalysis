@@ -1,0 +1,4 @@
+@echo off
+echo Starting Student Data Analysis and Reporting Tool API...
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload --app-dir backend
+pause
